@@ -1,4 +1,4 @@
-# Java Competitive Programming
+# Java Competitive Programming Notes
 
 Array size or length
 
